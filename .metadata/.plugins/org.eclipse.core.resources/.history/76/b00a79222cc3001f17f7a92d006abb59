@@ -1,0 +1,11 @@
+package com.paulo.todolist.controller;
+
+import com.paulo.todolist.model.Task;
+import com.paulo.todolist.service.TaskService;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+public class TaskController {
+
+}

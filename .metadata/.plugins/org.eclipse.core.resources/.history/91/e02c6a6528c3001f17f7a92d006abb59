@@ -1,0 +1,5 @@
+package com.paulo.todolist.model;
+
+public class Task {
+
+}

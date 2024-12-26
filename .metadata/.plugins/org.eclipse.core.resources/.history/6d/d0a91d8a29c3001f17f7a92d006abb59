@@ -1,0 +1,7 @@
+package com.paulo.todolist.model;
+
+import jakarta.persistence.Entity;
+
+public class Task {
+
+}

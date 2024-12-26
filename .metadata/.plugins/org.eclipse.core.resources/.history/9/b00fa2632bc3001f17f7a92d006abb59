@@ -1,0 +1,9 @@
+package com.paulo.todolist.service;
+
+import com.paulo.todolist.model.Task;
+import com.paulo.todolist.repository.TaskRepository;
+import org.springframework.stereotype.Service;
+
+public class TaskService {
+
+}
